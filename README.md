@@ -10,6 +10,10 @@ The Power BI dashboard helps visualize:
 - Top Performing Products
 - Customer Purchase Trends
 - Monthly and Yearly Sales Comparison
+- ## 📊 Dashboard Preview
+
+![Retail Sales Dashboard](images/dashboard_preview.png)
+
 
 ---
 
