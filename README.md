@@ -12,7 +12,7 @@ The Power BI dashboard helps visualize:
 - Monthly and Yearly Sales Comparison
 - ## 📊 Dashboard Preview
 
-![Retail Sales Dashboard](images/dashboard_preview.png)
+![Retail Sales Dashboard](imagesdashboard_preview.png.png)
 
 
 ---
