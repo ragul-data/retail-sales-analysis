@@ -1,6 +1,37 @@
 # 🛍️ Retail Sales Data Analysis Using Power BI
 
 This project analyzes retail sales performance using **Power BI** to uncover key business insights such as **revenue trends, customer behavior, product performance, and regional sales distribution**.
+## 🧩 Problem Statement
+Retail companies often deal with large volumes of sales data across different regions, products, and time periods.  
+However, this raw data is difficult to interpret without proper visualization.
+
+Because of that, managers struggle to:
+- Identify which products or regions drive the most revenue 🛍️  
+- Understand customer purchasing patterns 👥  
+- Track profit and sales performance over time 📉  
+- Make data-driven business decisions confidently 💼  
+
+---
+
+## 💡 Solution
+To solve these challenges, I built an interactive Power BI Dashboard that:
+- Consolidates all retail sales data from Excel 📊  
+- Cleans, models, and visualizes key performance indicators (KPIs)  
+- Provides an easy way to explore trends and performance insights  
+
+This dashboard helps:
+- Compare sales, profit, and quantity by region and category  
+- Identify top-selling products and low-performing ones  
+- Understand monthly/seasonal sales trends  
+- Transform raw data into actionable insights for decision-making  
+
+---
+
+## 🎯 Outcome
+- Managers can instantly monitor business performance  
+- Decisions are now data-driven, not assumption-based  
+- Saves time spent on manual reports  
+- Clear visibility into growth opportunities and problem areas
 
 ---
 
@@ -40,6 +71,7 @@ You can explore the complete interactive dashboard using this file:
 ## ⚙️ Tools Used
 - **Power BI**
 - **Microsoft Excel**
+-**SQL**
 - **Data Cleaning & DAX Measures**
 
 ---
